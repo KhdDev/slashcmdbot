@@ -1,0 +1,8 @@
+{
+    "token": "VOTRE_TOKEN_ICI",
+    "prefix": "=",
+    "colors": "#2f3136",
+    "owners": [
+        "VOTRE_ID_DISCORD"
+    ]
+}
