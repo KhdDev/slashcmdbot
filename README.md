@@ -18,21 +18,21 @@
 
 ---
 
-## :sparkles: Apercu
+## :sparkles: Aper&ccedil;u
 
-SlashCmd est un bot Discord complet et moderne utilisant exclusivement les **Slash Commands**. Il dispose d'un systeme de permissions hierarchique (Buyer > Owner > Whitelist) et de **39 commandes** reparties en 4 categories.
+SlashCmd est un bot Discord complet et moderne utilisant exclusivement les **Slash Commands**. Il dispose d'un syst&egrave;me de permissions hi&eacute;rarchique (Buyer > Owner > Whitelist) et de **39 commandes** r&eacute;parties en 4 cat&eacute;gories.
 
 ---
 
 ## :crown: Administration
 
-> Commandes reservees aux buyers et owners du bot.
+> Commandes r&eacute;serv&eacute;es aux buyers et owners du bot.
 
 | Commande | Description |
 |:---------|:------------|
-| `/owner` | Gerer les owners du bot *(add / remove / list / clear)* |
-| `/whitelist` | Gerer la whitelist *(add / remove / list / clear)* |
-| `/blacklist` | Gerer la blacklist *(add / remove / list / clear)* |
+| `/owner` | G&eacute;rer les owners du bot *(add / remove / list / clear)* |
+| `/whitelist` | G&eacute;rer la whitelist *(add / remove / list / clear)* |
+| `/blacklist` | G&eacute;rer la blacklist *(add / remove / list / clear)* |
 
 ## :gear: Gestion
 
@@ -41,12 +41,12 @@ SlashCmd est un bot Discord complet et moderne utilisant exclusivement les **Sla
 | Commande | Description |
 |:---------|:------------|
 | `/emoji` | Ajouter des emojis depuis un autre serveur ou une URL |
-| `/setsuggest` | Definir le salon des suggestions |
-| `/soutien` | Attribuer un role automatiquement selon le statut |
+| `/setsuggest` | D&eacute;finir le salon des suggestions |
+| `/soutien` | Attribuer un r&ocirc;le automatiquement selon le statut |
 
-## :shield: Moderation
+## :shield: Mod&eacute;ration
 
-> 23 outils de moderation pour gerer votre serveur.
+> 23 outils de mod&eacute;ration pour g&eacute;rer votre serveur.
 
 <details>
 <summary><b>Sanctions</b></summary>
@@ -54,12 +54,12 @@ SlashCmd est un bot Discord complet et moderne utilisant exclusivement les **Sla
 | Commande | Description |
 |:---------|:------------|
 | `/ban` | Bannir un utilisateur |
-| `/unban` | Debannir un utilisateur |
+| `/unban` | D&eacute;bannir un utilisateur |
 | `/kick` | Expulser un utilisateur |
 | `/mute` | Mute un utilisateur (timeout) |
 | `/unmute` | Unmute un utilisateur |
-| `/warn` | Gerer les avertissements *(add / remove / list / clear)* |
-| `/derank` | Retirer tous les roles d'un utilisateur |
+| `/warn` | G&eacute;rer les avertissements *(add / remove / list / clear)* |
+| `/derank` | Retirer tous les r&ocirc;les d'un utilisateur |
 
 </details>
 
@@ -70,9 +70,9 @@ SlashCmd est un bot Discord complet et moderne utilisant exclusivement les **Sla
 |:---------|:------------|
 | `/clear` | Supprimer des messages en masse (1-100) |
 | `/lock` | Verrouiller un salon textuel |
-| `/unlock` | Deverrouiller un salon textuel |
-| `/renew` | Recreer un salon a l'identique |
-| `/slowmode` | Definir le mode lent |
+| `/unlock` | D&eacute;verrouiller un salon textuel |
+| `/renew` | Recr&eacute;er un salon &agrave; l'identique |
+| `/slowmode` | D&eacute;finir le mode lent |
 | `/say` | Envoyer un message via le bot |
 
 </details>
@@ -82,24 +82,24 @@ SlashCmd est un bot Discord complet et moderne utilisant exclusivement les **Sla
 
 | Commande | Description |
 |:---------|:------------|
-| `/serverinfo` | Informations detaillees du serveur |
-| `/roleinfo` | Informations et permissions d'un role |
-| `/channelinfo` | Informations d'un salon (texte / vocal / categorie) |
-| `/banlist` | Liste paginee des bannissements |
+| `/serverinfo` | Informations d&eacute;taill&eacute;es du serveur |
+| `/roleinfo` | Informations et permissions d'un r&ocirc;le |
+| `/channelinfo` | Informations d'un salon (texte / vocal / cat&eacute;gorie) |
+| `/banlist` | Liste pagin&eacute;e des bannissements |
 
 </details>
 
 <details>
-<summary><b>Membres & Roles</b></summary>
+<summary><b>Membres & R&ocirc;les</b></summary>
 
 | Commande | Description |
 |:---------|:------------|
 | `/alladmin` | Liste des administrateurs |
 | `/allbot` | Liste des bots |
-| `/adminrole` | Liste des roles administrateur |
-| `/massrole` | Ajouter/retirer un role a tous les membres |
-| `/voicemove` | Deplacer les membres d'un salon vocal |
-| `/server` | Gerer les serveurs du bot *(list / invite / leave)* |
+| `/adminrole` | Liste des r&ocirc;les administrateur |
+| `/massrole` | Ajouter/retirer un r&ocirc;le &agrave; tous les membres |
+| `/voicemove` | D&eacute;placer les membres d'un salon vocal |
+| `/server` | G&eacute;rer les serveurs du bot *(list / invite / leave)* |
 
 </details>
 
@@ -110,19 +110,19 @@ SlashCmd est un bot Discord complet et moderne utilisant exclusivement les **Sla
 | Commande | Description |
 |:---------|:------------|
 | `/avatar` | Afficher l'avatar d'un utilisateur *(PNG, JPG, WEBP, GIF)* |
-| `/banner` | Afficher la banniere d'un utilisateur |
-| `/userinfo` | Informations detaillees d'un utilisateur |
+| `/banner` | Afficher la banni&egrave;re d'un utilisateur |
+| `/userinfo` | Informations d&eacute;taill&eacute;es d'un utilisateur |
 | `/botinfo` | Statistiques et informations du bot |
 | `/ping` | Latence du bot et du websocket |
 | `/calcul` | Calculatrice interactive avec boutons |
-| `/snipe` | Recuperer le dernier message supprime |
+| `/snipe` | R&eacute;cup&eacute;rer le dernier message supprim&eacute; |
 | `/voice` | Statistiques des salons vocaux |
-| `/suggestion` | Soumettre une suggestion avec systeme de vote |
-| `/help` | Menu d'aide interactif par categorie |
+| `/suggestion` | Soumettre une suggestion avec syst&egrave;me de vote |
+| `/help` | Menu d'aide interactif par cat&eacute;gorie |
 
 ---
 
-## :lock: Systeme de Permissions
+## :lock: Syst&egrave;me de Permissions
 
 ```
 Buyer (config.json)
@@ -130,11 +130,11 @@ Buyer (config.json)
         └── Whitelist (par serveur)
 ```
 
-| Role | Acces | Attribution |
+| R&ocirc;le | Acc&egrave;s | Attribution |
 |:-----|:------|:-----------|
-| **Buyer** | Toutes les commandes | Defini dans `config.json` |
-| **Owner** | Administration + Moderation + Gestion | `/owner add @user` |
-| **Whitelist** | Moderation | `/whitelist add @user` |
+| **Buyer** | Toutes les commandes | D&eacute;fini dans `config.json` |
+| **Owner** | Administration + Mod&eacute;ration + Gestion | `/owner add @user` |
+| **Whitelist** | Mod&eacute;ration | `/whitelist add @user` |
 
 ---
 
@@ -146,7 +146,7 @@ git clone https://github.com/KhdDev/slashcmdbot.git
 cd slashcmdbot
 ```
 
-**2.** Installer les dependances
+**2.** Installer les d&eacute;pendances
 ```bash
 npm install
 ```
@@ -176,12 +176,12 @@ node index.js
 
 <div align="center">
 
-| Dependance | Utilisation |
+| D&eacute;pendance | Utilisation |
 |:-----------|:------------|
 | [discord.js](https://discord.js.org/) v14 | Framework Discord |
 | [mathjs](https://mathjs.org/) | Calculatrice |
-| [ms](https://github.com/vercel/ms) | Conversion de durees |
-| [axios](https://axios-http.com/) | Requetes HTTP |
+| [ms](https://github.com/vercel/ms) | Conversion de dur&eacute;es |
+| [axios](https://axios-http.com/) | Requ&ecirc;tes HTTP |
 
 </div>
 
@@ -189,7 +189,7 @@ node index.js
 
 <div align="center">
 
-**Developpe par [kml69190](https://github.com/KhdDev)**
+**D&eacute;velopp&eacute; par [kml69190](https://github.com/KhdDev)**
 
 <br>
 
